@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kensunjaya
-- 👀 I’m interested in AI & Game Hacking
+- 👀 I’m interested in AI & Reverse Engineering
 - 🌱 I’m currently learning Python, Java, C, C++
 - 📫 How to reach me kennethsunjaya@gmail.com
 
