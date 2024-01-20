@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kensunjaya
-- 👀 I’m interested in AI & Reverse Engineering
-- 🌱 I’m currently learning Python, Java, C, C++
+- 👀 I’m interested in AI, Reverse Engineering & Android Development
+- 🌱 I’m currently learning Python, Java, C, C++, JavaScript
 - 📫 How to reach me kennethsunjaya@gmail.com
 
 <!---
