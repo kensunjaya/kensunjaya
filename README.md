@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenneth Sunjaya</h1>
-<h3 align="center">Interested in AI, mobile development, reverse engineering</h3>
+<h3 align="center">Interested in AI, mobile development, reverse engineering, low level programming</h3>
 
-- 🌱 I’m currently learning **React, Web Programming**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **kennethsunjaya@gmail.com**
 
