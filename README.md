@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenneth Sunjaya</h1>
-<h3 align="center">Interested in AI, mobile development, reverse engineering, low level programming</h3>
+<h3 align="center">Interested in Web Programming, Mobile App Development, Reverse Engineering, Low Level Programming</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
