@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenneth Sunjaya</h1>
-<h3 align="center">Interested in Web Programming, Mobile App Development, Reverse Engineering, Low Level Programming</h3>
+<h3 align="center">Interests: Web Programming, Mobile App Development, Reverse Engineering, Low Level Programming</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **kennethsunjaya@gmail.com**
 
