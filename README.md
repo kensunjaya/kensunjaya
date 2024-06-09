@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React Native<br>📫 How to reach me kennethsunjaya@gmail.com<br>
+🌱 Self-taught programmer<br>📫 How to reach me kennethsunjaya@gmail.com<br>
 
 
 ## 🌐 Socials:
