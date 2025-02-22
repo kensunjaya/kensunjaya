@@ -1,5 +1,12 @@
+<h1 align="center"><b>Hi , I'm Kenneth Sunjaya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFBC0D&size=28&center=true&vCenter=true&width=900&height=100&lines=A+Self-Taught+Front-end+Developer;An+Undergraduate+Computer+Science+Student;Focusing+on+Mobile+and+ML+Projects" />
+</p>
+
 # 💫 About Me:
-🧩 Self-taught programmer<br>📫 How to reach me kennethsunjaya@gmail.com<br><br>
+👨‍💻 A self-taught Web Developer<br><br>
+🧠 Currently focusing on AI and Machine Learning tasks<br><br>
+📫 How to reach me kennethsunjaya@gmail.com<br><br>
 [![](https://visitcount.itsvg.in/api?id=kensunjaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
