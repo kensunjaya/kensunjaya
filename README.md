@@ -24,5 +24,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kensunjaya&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kensunjaya&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kensunjaya&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com?user=kensunjaya&theme=dark&card_width=450&ring=4B8EDA&fire=EB8F37&currStreakLabel=EB8F37&background=EB545400)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kensunjaya&theme=github_dark&card_width=450&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
