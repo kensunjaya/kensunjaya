@@ -8,9 +8,9 @@
 
 🧠 Currently focusing on AI and Machine Learning tasks  
 
-📫 How to reach me kennethsunjaya@gmail.com  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kenneth-sunjaya/)
 
-📃 Portofolio web <a href="https://kennethsunjaya.com" target="_blank">kennethsunjaya.com</a>
+📃 Website <a href="https://kennethsunjaya.com" target="_blank">kennethsunjaya.com</a>
 
 [![](https://visitcount.itsvg.in/api?id=kensunjaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
